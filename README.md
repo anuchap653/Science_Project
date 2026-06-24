@@ -28,7 +28,7 @@ Science_Project/
 3. รันแอปด้วย Streamlit
 
 ```bash
-cd /home/runner/work/Science_Project/Science_Project/Science_Project
+cd Science_Project
 pip install -r requirements.txt
 streamlit run app.py
 ```
